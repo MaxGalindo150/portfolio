@@ -13,6 +13,10 @@ a {
     color: black;
 }
 
+.inactive {
+    display: none;
+}
+
 .grid-container {
     max-width: 980px;
     margin: auto;
@@ -298,6 +302,22 @@ footer p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+
+.git-logo img{
+    width: 30px;
+    height: 30px;
+}
+
+.plus-logo img{
+    width: 30px;
+    height: 30px;
+}
+
+.plus-logo--article img{
+    width: 10px;
+    height: 10px;
+}
+
 .project-container {
     display: flex;
     justify-content: center;
