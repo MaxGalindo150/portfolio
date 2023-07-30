@@ -313,9 +313,14 @@ footer p {
     height: 30px;
 }
 
-.plus-logo--article img{
-    width: 10px;
-    height: 10px;
+.project-buttons .plus-logo img{
+    width: 30px;
+    height: 30px;
+}
+
+.project-buttons .git-logo img{
+    width: 30px;
+    height: 30px;
 }
 
 .project-container {
